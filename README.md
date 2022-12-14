@@ -1,3 +1,5 @@
+![Banner](https://github.com/b0ryakha/b0ryakha/blob/master/banner.gif)
+
 ### My favorite programming languages
 
 ![C++](https://img.shields.io/badge/c++-202020.svg?style=for-the-badge&logo=c%2B%2B&logoColor=%2300599C) &nbsp;
