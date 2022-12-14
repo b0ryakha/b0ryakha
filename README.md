@@ -1,5 +1,4 @@
 ![Banner](https://github.com/b0ryakha/b0ryakha/blob/master/banner.gif)
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### My favorite programming languages
 
