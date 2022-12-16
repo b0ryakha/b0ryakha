@@ -1,4 +1,4 @@
-![](https://github.com/b0ryakha/b0ryakha/blob/main/banner.gif)
+![Header](https://github.com/b0ryakha/b0ryakha/blob/main/header.gif)
 
 ### My favorite programming languages
 
